@@ -1,0 +1,29 @@
+name: jwrestling # you probably want to 'snapcraft register <name>'
+base: core18 # the base snap is the execution environment for this snap
+version: '0.08' # just for humans, typically '1.2+git' or '1.3.2'
+summary: A multi-user wrestling game written in Java
+description: |
+    A multi-user wrestling game written in Java
+
+grade: stable # must be 'stable' to release into candidate/stable channels
+confinement: strict # use 'strict' once you have the right plugs and slots
+icon:  jwrestling_icon.png
+title: Jago
+
+apps:
+  jwrestling:
+    command: startjwrestling
+parts:
+  jwrestling:
+    # See 'snapcraft plugins'
+    plugin: dump
+    source: .
+    build-packages: [default-jre]
+    stage-packages: [default-jre]
+    organize:
+      jwrestling: build/
+      jwrestling.1: man/man1/
+
+architectures:
+  - build-on: amd64
+

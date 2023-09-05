@@ -1,0 +1,625 @@
+[INFO] [2023-08-28 @ 01:35:47] [main|jwrestling] Setting base at:/home/marisag/.jWrestling/
+[INFO] [2023-08-28 @ 01:35:47] [main|jwrestling] jWrestling 0.08
+[INFO] [2023-08-28 @ 01:35:47] [main|jwrestling] OS: Linux  6.2.0-26-generic amd64
+[INFO] [2023-08-28 @ 01:35:47] [main|jwrestling] Java-Runtime: OpenJDK Runtime Environment 17.0.8+7-Ubuntu-122.04 from /usr/lib/jvm/java-17-openjdk-amd64
+[INFO] [2023-08-28 @ 01:35:47] [main|jwrestling] Java-VM: Private Build OpenJDK 64-Bit Server VM 17.0.8+7-Ubuntu-122.04
+[INFO] [2023-08-28 @ 01:35:48] [Thread-0|SoundSystem] Sound driver: default [default](Direct Audio Device: default, default, default)
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|SoundSystem] SoundSystem: no master volume controls
+[INFO] [2023-08-28 @ 01:35:48] [Thread-0|SoundSystem] - sound definition: welcome = harp-1.wav,x
+[INFO] [2023-08-28 @ 01:35:48] [Thread-0|SoundSystem] - storing mem-library soundclip: welcome
+[INFO] [2023-08-28 @ 01:35:48] [Thread-0|SoundSystem] - sound definition: crowd_cheer = crowd-cheer.wav,x
+[INFO] [2023-08-28 @ 01:35:48] [Thread-0|SoundSystem] - storing mem-library soundclip: crowd_cheer
+[INFO] [2023-08-28 @ 01:35:48] [Thread-0|SoundSystem] jWrestling Soundsystem OK: 2 samples approved / 2 loaded / 2 library sounds
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Init UserContext.
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :): happy.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :-): happy.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :(: sad.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :-(: sad.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :o: surprise.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :-o: surprise.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :d: smile.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :-d: smile.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :p: tongue.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :-p: tongue.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :i: no-expression.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :-i: no-expression.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: ;): wink.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: ;-): wink.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: >@: mad.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: >-@: mad.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: 8): cool.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: 8-): cool.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :'(: tear.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :'-(: tear.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: (y): yes.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: (n): no.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: lol: LOL.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :$: shhhh.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: :-$: shhhh.gif
+[DEBUG] [2023-08-28 @ 01:35:48] [Thread-0|UserContext] Adding: brb: BRB.gif
+[DEBUG] [2023-08-28 @ 01:35:51] [Thread-0|UserContext] Adding event: text to the listener list
+[DEBUG] [2023-08-28 @ 01:35:51] [Thread-0|UserContext] Adding event: private_text to the listener list
+[ERROR] [2023-08-28 @ 01:36:15] [AWT-EventQueue-0|HelpDialog] Couldn't find file: introduction.html
+[ERROR] [2023-08-28 @ 01:36:15] [AWT-EventQueue-0|HelpDialog] Couldn't find file: setting.html
+[ERROR] [2023-08-28 @ 01:36:15] [AWT-EventQueue-0|HelpDialog] Couldn't find file: setting-download.html
+[ERROR] [2023-08-28 @ 01:36:15] [AWT-EventQueue-0|HelpDialog] Couldn't find file: setting-accountcreation.html
+[ERROR] [2023-08-28 @ 01:36:15] [AWT-EventQueue-0|HelpDialog] Couldn't find file: setting-start.html
+[ERROR] [2023-08-28 @ 01:36:15] [AWT-EventQueue-0|HelpDialog] Couldn't find file: controls.html
+[ERROR] [2023-08-28 @ 01:36:15] [AWT-EventQueue-0|HelpDialog] Couldn't find file: controls-gamescreen.html
+[ERROR] [2023-08-28 @ 01:36:15] [AWT-EventQueue-0|HelpDialog] Couldn't find file: controls-basic.html
+[ERROR] [2023-08-28 @ 01:36:15] [AWT-EventQueue-0|HelpDialog] Couldn't find file: controls-communication.html
+[ERROR] [2023-08-28 @ 01:36:15] [AWT-EventQueue-0|HelpDialog] Couldn't find file: gameplay.html
+[DEBUG] [2023-08-28 @ 01:36:52] [AWT-EventQueue-0|ScrollerPanel] Created a new scrolling panel
+[DEBUG] [2023-08-28 @ 01:36:52] [AWT-EventQueue-0|CreditsDialog] about dialog initialized
+[DEBUG] [2023-08-28 @ 01:36:52] [AWT-EventQueue-0|CreditsDialog] about dialog event handling ready
+[DEBUG] [2023-08-28 @ 01:36:52] [AWT-EventQueue-0|ScrollerPanel] start scrolling
+[DEBUG] [2023-08-28 @ 01:37:04] [AWT-EventQueue-0|ScrollerPanel] stop scrolling
+[DEBUG] [2023-08-28 @ 01:37:04] [AWT-EventQueue-0|CreditsDialog] about dialog closed
+[INFO] [2023-08-28 @ 01:38:44] [main|jwrestling] Setting base at:/home/marisag/.jWrestling/
+[INFO] [2023-08-28 @ 01:38:44] [main|jwrestling] jWrestling 0.08
+[INFO] [2023-08-28 @ 01:38:44] [main|jwrestling] OS: Linux  6.2.0-26-generic amd64
+[INFO] [2023-08-28 @ 01:38:44] [main|jwrestling] Java-Runtime: OpenJDK Runtime Environment 17.0.8+7-Ubuntu-122.04 from /usr/lib/jvm/java-17-openjdk-amd64
+[INFO] [2023-08-28 @ 01:38:44] [main|jwrestling] Java-VM: Private Build OpenJDK 64-Bit Server VM 17.0.8+7-Ubuntu-122.04
+[INFO] [2023-08-28 @ 01:38:44] [Thread-0|SoundSystem] Sound driver: default [default](Direct Audio Device: default, default, default)
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|SoundSystem] SoundSystem: no master volume controls
+[INFO] [2023-08-28 @ 01:38:44] [Thread-0|SoundSystem] - sound definition: welcome = harp-1.wav,x
+[INFO] [2023-08-28 @ 01:38:44] [Thread-0|SoundSystem] - storing mem-library soundclip: welcome
+[INFO] [2023-08-28 @ 01:38:44] [Thread-0|SoundSystem] - sound definition: crowd_cheer = crowd-cheer.wav,x
+[INFO] [2023-08-28 @ 01:38:44] [Thread-0|SoundSystem] - storing mem-library soundclip: crowd_cheer
+[INFO] [2023-08-28 @ 01:38:44] [Thread-0|SoundSystem] jWrestling Soundsystem OK: 2 samples approved / 2 loaded / 2 library sounds
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Init UserContext.
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :): happy.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :-): happy.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :(: sad.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :-(: sad.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :o: surprise.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :-o: surprise.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :d: smile.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :-d: smile.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :p: tongue.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :-p: tongue.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :i: no-expression.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :-i: no-expression.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: ;): wink.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: ;-): wink.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: >@: mad.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: >-@: mad.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: 8): cool.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: 8-): cool.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :'(: tear.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :'-(: tear.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: (y): yes.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: (n): no.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: lol: LOL.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :$: shhhh.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: :-$: shhhh.gif
+[DEBUG] [2023-08-28 @ 01:38:44] [Thread-0|UserContext] Adding: brb: BRB.gif
+[DEBUG] [2023-08-28 @ 01:38:45] [Thread-0|UserContext] Adding event: text to the listener list
+[DEBUG] [2023-08-28 @ 01:38:45] [Thread-0|UserContext] Adding event: private_text to the listener list
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|SoundMaster] SoundMaster inited...
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|jWrestlingScreen] Init Components...
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|jWrestlingScreen] Register Slash Actions...
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|jWrestlingScreen] Start chat listener...
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|UserContext] Adding event: Room_Event to the listener list
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|UserContext] Adding event: Challenge_Event to the listener list
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|UserContext] Adding event: Match_Event to the listener list
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|jWrestlingScreen] Entering game loop...
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|SoundMaster] Requested to play: crowd-cheer.wav
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-5|PlayerOpener] Opening player...
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|SoundSystem] -- SoundSys: ZONE ENTERED: Lobby
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|jWrestlingClient] onAdded: RPObject with Attributes of Class(client_object): [wins=0][visibility=100][hp=100][losses=0][type=player][resistance=100][x=0][name=marisag][xp=0][width=1][y=0][draws=0][zoneid=Lobby][base_hp=100][id=2][matchid=-1][height=1] and RPSlots  with maps and RPLink  and RPEvents 
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=Lobby]) added to client
+[DEBUG] [2023-08-28 @ 01:39:39] [Thread-0|GameObjects] added games.jwrestling.client.entity.User[marisag]@1344193145
+[INFO] [2023-08-28 @ 01:39:39] [Thread-0|jWrestlingScreen] Request to add player: marisag
+[INFO] [2023-08-28 @ 01:39:39] [Thread-0|jWrestlingScreen] Request to add list to model: marisag
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|jWrestlingScreen] Screen updated!
+[INFO] [2023-08-28 @ 01:39:40] [Thread-0|jWrestlingClient] Just created account, save new file...
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=Lobby]) modified in client
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-6|PlayerSaver] Saving player...
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|jWrestlingClient] Synced with server state.
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|jWrestlingClient] Requesting update...
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|jWrestlingClient] Sending action: Attributes of Class(): [type=CRUDRoom][operation=4]
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|jWrestlingClient] Sending action: Attributes of Class(): [type=CRUDRoom][operation=5]
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-6|PlayerSaver] Player: marisag
+Player contents:
+Collection:
+Decks:
+
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-6|PlayerSaver] Done!
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-7|PlayerOpener] Opening player...
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|jWrestlingClient] onModifiedAdded: RPObject with Attributes of Class(client_object): [wins=0][visibility=100][hp=100][losses=0][type=player][#key=_SFVMCWR[\\_Y^^PEHGBZecp|UIt\]	R][resistance=100][x=0][name=marisag][xp=0][width=1][y=0][draws=0][zoneid=Lobby][base_hp=100][id=2][matchid=-1][height=1] and RPSlots [marauroa.common.game.RPSlot@3deb9f45 named(!buddy) with capacity(1)[]] with maps and RPLink  and RPEvents ,changes: RPObject with Attributes of Class(client_object): [zoneid=Lobby][id=2] and RPSlots  with maps and RPLink  and RPEvents [RPEvent Room_Event with Attributes of Class(Room_Event): [field=Suspended Players Room: Were the bad guys end up...#Lobby][action=4] and RPSlots ][RPEvent Room_Event with Attributes of Class(Room_Event): [field=marisag][action=5] and RPSlots ]
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=Lobby]) modified in client
+[INFO] [2023-08-28 @ 01:39:40] [Thread-0|jWrestlingScreen] Request to add player: marisag
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|jWrestlingScreen] Screen updated!
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|RoomCRUDClientExtension] Room event received: RPEvent Room_Event with Attributes of Class(Room_Event): [field=Suspended Players Room: Were the bad guys end up...#Lobby][action=4] and RPSlots 
+[INFO] [2023-08-28 @ 01:39:40] [Thread-0|jWrestlingScreen] Request to add list to model: Suspended Players Room: Were the bad guys end up...#Lobby
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|RoomCRUDClientExtension] Room event received: RPEvent Room_Event with Attributes of Class(Room_Event): [field=marisag][action=5] and RPSlots 
+[INFO] [2023-08-28 @ 01:39:40] [Thread-0|jWrestlingScreen] Request to add list to model: marisag
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|UserContext] Here are the processed events. A false means that probably RPEventListeners not registered.
+
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|UserContext] RPEvent Room_Event with Attributes of Class(Room_Event): [field=Suspended Players Room: Were the bad guys end up...#Lobby][action=4] and RPSlots  Processed? true
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|UserContext] RPEvent Room_Event with Attributes of Class(Room_Event): [field=marisag][action=5] and RPSlots  Processed? true
+[DEBUG] [2023-08-28 @ 01:39:40] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=Lobby]) modified in client
+[DEBUG] [2023-08-28 @ 01:39:50] [Thread-0|jWrestlingClient] onModifiedAdded: RPObject with Attributes of Class(client_object): [wins=0][visibility=100][hp=100][losses=0][type=player][#key=_SFVMCWR[\\_Y^^PEHGBZecp|UIt\]	R][resistance=100][x=0][name=marisag][xp=0][width=1][y=0][draws=0][zoneid=Lobby][base_hp=100][id=2][matchid=-1][height=1] and RPSlots [marauroa.common.game.RPSlot@3deb9f45 named(!buddy) with capacity(1)[]] with maps and RPLink  and RPEvents ,changes: RPObject with Attributes of Class(client_object): [zoneid=Lobby][id=2] and RPSlots  with maps and RPLink  and RPEvents 
+[DEBUG] [2023-08-28 @ 01:39:50] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=Lobby]) modified in client
+[INFO] [2023-08-28 @ 01:39:50] [Thread-0|jWrestlingScreen] Request to add player: marisag
+[DEBUG] [2023-08-28 @ 01:39:50] [Thread-0|jWrestlingScreen] Screen updated!
+[DEBUG] [2023-08-28 @ 01:39:50] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=Lobby]) modified in client
+[DEBUG] [2023-08-28 @ 01:39:57] [AWT-EventQueue-0|ScrollerPanel] Created a new scrolling panel
+[DEBUG] [2023-08-28 @ 01:39:57] [AWT-EventQueue-0|CreditsDialog] about dialog initialized
+[DEBUG] [2023-08-28 @ 01:39:57] [AWT-EventQueue-0|CreditsDialog] about dialog event handling ready
+[DEBUG] [2023-08-28 @ 01:39:57] [AWT-EventQueue-0|ScrollerPanel] start scrolling
+[DEBUG] [2023-08-28 @ 01:40:02] [AWT-EventQueue-0|ScrollerPanel] stop scrolling
+[DEBUG] [2023-08-28 @ 01:40:02] [AWT-EventQueue-0|CreditsDialog] about dialog closed
+[DEBUG] [2023-08-28 @ 01:40:13] [AWT-EventQueue-0|ScrollerPanel] Created a new scrolling panel
+[DEBUG] [2023-08-28 @ 01:40:13] [AWT-EventQueue-0|CreditsDialog] about dialog initialized
+[DEBUG] [2023-08-28 @ 01:40:13] [AWT-EventQueue-0|CreditsDialog] about dialog event handling ready
+[DEBUG] [2023-08-28 @ 01:40:13] [AWT-EventQueue-0|ScrollerPanel] start scrolling
+[DEBUG] [2023-08-28 @ 01:40:25] [AWT-EventQueue-0|ScrollerPanel] stop scrolling
+[DEBUG] [2023-08-28 @ 01:40:25] [AWT-EventQueue-0|CreditsDialog] about dialog closed
+[DEBUG] [2023-08-28 @ 01:40:27] [Thread-8|DeckManager] Adding pages...
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Loading collection...
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 1, Hip Toss
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 2, Belly-To-Belly Suplex
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 3, Clothesline Over the Ropes
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 4, Back Suplex
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 5, Small Package
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 6, Figure Four Leg Lock
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 7, Double Underhook Suplex
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 8, Distract The Referee
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 9, Back Elbow
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 10, Chair Shot
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 11, Knowledge
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 12, Bulldog
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 13, Huricarrana
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 14, Punch
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 15, Arm Drag Counter
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 16, Power Bomb
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 17, Agility
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 18, Body Slam
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 19, Flying Wheel Kick
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 20, Drop Kick
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 21, Turnbuckle Smash
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 22, Dragon Sleeper
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 23, Arm Stretch
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 24, German Suplex
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 25, 2nd Rope Leg Drop
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] Entry #: 26, Corner Barrage
+[DEBUG] [2023-08-28 @ 01:40:29] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 27, High Dive
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 28, Dragon Suplex
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 29, Knee Lift
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 30, Spine Buster
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 31, Drop Kick to the Floor
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 32, Bear Hug
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 33, Asai Moonsault
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 34, Enzugiri
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 35, Armbar
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 36, Gut Wrench Suplex
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 37, Technical
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 38, Flat of the foot
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 39, Camel Clutch
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 40, Fisherman's Suplex
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 41, Dodge
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 42, Vertical Suplex
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 43, El Loco
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 44, Elbow Drop
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 45, Choke on the Ropes
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 46, La Pantera
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 47, Mistery Warrior
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 48, Headlock
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 49, Clip
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 50, Chair to the Back
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 51, DDT
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 52, Forearm Smash
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 53, Elbow
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 54, Back_Body_Drop
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 55, Eye Rake
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 56, Hammerlock
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 57, Corner Charge
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 58, Atomic Drop
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 59, Elbow to the Back of the Head
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 60, Strike
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 61, Arm Drag Takedown
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 62, Back Body Drop to Ringside
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 63, The Giant
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 64, Clothesline
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 65, European Uppercut
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 66, Duck
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 67, Ear Clap
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 68, Face Buster
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 69, Moon Sault
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 70, Double Leg Takedown
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 71, Fireman's Carry
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 72, Strength
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Entry #: 73, Fist Drop
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] SubEntry #: 1
+[DEBUG] [2023-08-28 @ 01:40:30] [Thread-8|DeckManager] Done!
+[DEBUG] [2023-08-28 @ 01:40:57] [Thread-10|PlayerSaver] Saving player...
+[DEBUG] [2023-08-28 @ 01:40:57] [Thread-10|PlayerSaver] Player: marisag
+Player contents:
+Collection:
+Hip Toss-{First Edition=5}
+Belly-To-Belly Suplex-{First Edition=5}
+Clothesline Over the Ropes-{First Edition=5}
+Back Suplex-{First Edition=10}
+Small Package-{First Edition=5}
+Figure Four Leg Lock-{First Edition=5}
+Double Underhook Suplex-{First Edition=5}
+Distract The Referee-{First Edition=5}
+Back Elbow-{First Edition=5}
+Chair Shot-{First Edition=5}
+Knowledge-{First Edition=20}
+Bulldog-{First Edition=5}
+Huricarrana-{First Edition=5}
+Punch-{First Edition=5}
+Arm Drag Counter-{First Edition=5}
+Power Bomb-{First Edition=5}
+Agility-{First Edition=20}
+Body Slam-{First Edition=5}
+Flying Wheel Kick-{First Edition=5}
+Drop Kick-{First Edition=5}
+Turnbuckle Smash-{First Edition=5}
+Dragon Sleeper-{First Edition=5}
+Arm Stretch-{First Edition=5}
+German Suplex-{First Edition=5}
+2nd Rope Leg Drop-{First Edition=5}
+Corner Barrage-{First Edition=5}
+High Dive-{First Edition=5}
+Dragon Suplex-{First Edition=5}
+Knee Lift-{First Edition=5}
+Spine Buster-{First Edition=5}
+Drop Kick to the Floor-{First Edition=5}
+Bear Hug-{First Edition=5}
+Asai Moonsault-{First Edition=5}
+Enzugiri-{First Edition=5}
+Armbar-{First Edition=5}
+Gut Wrench Suplex-{First Edition=5}
+Technical-{First Edition=20}
+Flat of the foot-{First Edition=5}
+Camel Clutch-{First Edition=5}
+Fisherman's Suplex-{First Edition=5}
+Dodge-{First Edition=5}
+Vertical Suplex-{First Edition=5}
+El Loco-{First Edition=1}
+Elbow Drop-{First Edition=5}
+Choke on the Ropes-{First Edition=5}
+La Pantera-{First Edition=1}
+Mistery Warrior-{First Edition=1}
+Headlock-{First Edition=5}
+Clip-{First Edition=5}
+Chair to the Back-{First Edition=10}
+DDT-{First Edition=5}
+Forearm Smash-{First Edition=5}
+Elbow-{First Edition=5}
+Back_Body_Drop-{First Edition=5}
+Eye Rake-{First Edition=5}
+Hammerlock-{First Edition=5}
+Corner Charge-{First Edition=5}
+Atomic Drop-{First Edition=10}
+Elbow to the Back of the Head-{First Edition=5}
+Strike-{First Edition=20}
+Arm Drag Takedown-{First Edition=5}
+Back Body Drop to Ringside-{First Edition=5}
+The Giant-{First Edition=1}
+Clothesline-{First Edition=5}
+European Uppercut-{First Edition=5}
+Duck-{First Edition=5}
+Ear Clap-{First Edition=5}
+Face Buster-{First Edition=5}
+Moon Sault-{First Edition=5}
+Double Leg Takedown-{First Edition=5}
+Fireman's Carry-{First Edition=5}
+Strength-{First Edition=20}
+Fist Drop-{First Edition=5}
+Decks:
+
+[DEBUG] [2023-08-28 @ 01:40:57] [Thread-10|PlayerSaver] Done!
+[DEBUG] [2023-08-28 @ 01:40:57] [Thread-11|PlayerOpener] Opening player...
+[DEBUG] [2023-08-28 @ 01:41:04] [Thread-12|PlayerSaver] Saving player...
+[DEBUG] [2023-08-28 @ 01:41:04] [Thread-12|PlayerSaver] Player: marisag
+Player contents:
+Collection:
+Hip Toss-{First Edition=5}
+Belly-To-Belly Suplex-{First Edition=5}
+Clothesline Over the Ropes-{First Edition=5}
+Back Suplex-{First Edition=10}
+Small Package-{First Edition=5}
+Figure Four Leg Lock-{First Edition=5}
+Double Underhook Suplex-{First Edition=5}
+Distract The Referee-{First Edition=5}
+Back Elbow-{First Edition=5}
+Chair Shot-{First Edition=5}
+Knowledge-{First Edition=20}
+Bulldog-{First Edition=5}
+Huricarrana-{First Edition=5}
+Punch-{First Edition=5}
+Arm Drag Counter-{First Edition=5}
+Power Bomb-{First Edition=5}
+Agility-{First Edition=20}
+Body Slam-{First Edition=5}
+Flying Wheel Kick-{First Edition=5}
+Drop Kick-{First Edition=5}
+Turnbuckle Smash-{First Edition=5}
+Dragon Sleeper-{First Edition=5}
+Arm Stretch-{First Edition=5}
+German Suplex-{First Edition=5}
+2nd Rope Leg Drop-{First Edition=5}
+Corner Barrage-{First Edition=5}
+High Dive-{First Edition=5}
+Dragon Suplex-{First Edition=5}
+Knee Lift-{First Edition=5}
+Spine Buster-{First Edition=5}
+Drop Kick to the Floor-{First Edition=5}
+Bear Hug-{First Edition=5}
+Asai Moonsault-{First Edition=5}
+Enzugiri-{First Edition=5}
+Armbar-{First Edition=5}
+Gut Wrench Suplex-{First Edition=5}
+Technical-{First Edition=20}
+Flat of the foot-{First Edition=5}
+Camel Clutch-{First Edition=5}
+Fisherman's Suplex-{First Edition=5}
+Dodge-{First Edition=5}
+Vertical Suplex-{First Edition=5}
+El Loco-{First Edition=1}
+Elbow Drop-{First Edition=5}
+Choke on the Ropes-{First Edition=5}
+La Pantera-{First Edition=1}
+Mistery Warrior-{First Edition=1}
+Headlock-{First Edition=5}
+Clip-{First Edition=5}
+Chair to the Back-{First Edition=10}
+DDT-{First Edition=5}
+Forearm Smash-{First Edition=5}
+Elbow-{First Edition=5}
+Back_Body_Drop-{First Edition=5}
+Eye Rake-{First Edition=5}
+Hammerlock-{First Edition=5}
+Corner Charge-{First Edition=5}
+Atomic Drop-{First Edition=10}
+Elbow to the Back of the Head-{First Edition=5}
+Strike-{First Edition=20}
+Arm Drag Takedown-{First Edition=5}
+Back Body Drop to Ringside-{First Edition=5}
+The Giant-{First Edition=1}
+Clothesline-{First Edition=5}
+European Uppercut-{First Edition=5}
+Duck-{First Edition=5}
+Ear Clap-{First Edition=5}
+Face Buster-{First Edition=5}
+Moon Sault-{First Edition=5}
+Double Leg Takedown-{First Edition=5}
+Fireman's Carry-{First Edition=5}
+Strength-{First Edition=20}
+Fist Drop-{First Edition=5}
+Decks:
+
+[DEBUG] [2023-08-28 @ 01:41:04] [Thread-12|PlayerSaver] Done!
+[DEBUG] [2023-08-28 @ 01:41:04] [Thread-13|PlayerOpener] Opening player...
+[DEBUG] [2023-08-28 @ 01:41:22] [AWT-EventQueue-0|jWrestlingClient] Sending action: Attributes of Class(): [password=[C@1bfe2c83][description=This is a test room][type=CRUDRoom][operation=1][room=test room]
+[DEBUG] [2023-08-28 @ 01:41:22] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=Lobby]) removed from client
+[DEBUG] [2023-08-28 @ 01:41:22] [Thread-0|GameObjects] removed RPObject.ID [id=2 zoneid=Lobby]
+[DEBUG] [2023-08-28 @ 01:41:22] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=Lobby]) removed from client
+[DEBUG] [2023-08-28 @ 01:41:22] [Thread-0|GameObjects] removed RPObject.ID [id=2 zoneid=Lobby]
+[DEBUG] [2023-08-28 @ 01:41:22] [Thread-0|SoundSystem] -- SoundSys: ZONE LEFT: Lobby
+[DEBUG] [2023-08-28 @ 01:41:22] [Thread-0|SoundSystem] -- SoundSys: ZONE ENTERED: test room
+[DEBUG] [2023-08-28 @ 01:41:22] [Thread-0|jWrestlingClient] onAdded: RPObject with Attributes of Class(client_object): [wins=0][visibility=100][hp=100][losses=0][type=player][resistance=100][x=0][name=marisag][xp=0][width=1][y=0][draws=0][zoneid=test room][base_hp=100][id=2][matchid=-1][height=1] and RPSlots  with maps and RPLink  and RPEvents 
+[DEBUG] [2023-08-28 @ 01:41:22] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=test room]) added to client
+[DEBUG] [2023-08-28 @ 01:41:22] [Thread-0|GameObjects] added games.jwrestling.client.entity.User[marisag]@865011785
+[INFO] [2023-08-28 @ 01:41:22] [Thread-0|jWrestlingScreen] Request to add player: marisag
+[DEBUG] [2023-08-28 @ 01:41:22] [Thread-0|jWrestlingScreen] Screen updated!
+[DEBUG] [2023-08-28 @ 01:41:22] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=test room]) modified in client
+[DEBUG] [2023-08-28 @ 01:41:24] [Thread-0|jWrestlingClient] onModifiedAdded: RPObject with Attributes of Class(client_object): [wins=0][visibility=100][hp=100][losses=0][type=player][#key=_SFVMCWR[\\_Y^^PEHGBZecp|UIt\]	R][resistance=100][x=0][name=marisag][xp=0][width=1][y=0][draws=0][zoneid=test room][base_hp=100][id=2][matchid=-1][height=1] and RPSlots [marauroa.common.game.RPSlot@3deb9f45 named(!buddy) with capacity(1)[]] with maps and RPLink  and RPEvents ,changes: RPObject with Attributes of Class(client_object): [zoneid=test room][id=2] and RPSlots  with maps and RPLink  and RPEvents [RPEvent Room_Event with Attributes of Class(Room_Event): [field=test room][description=This is a test room][action=1] and RPSlots ][RPEvent Room_Event with Attributes of Class(Room_Event): [field=test room][description=This is a test room][action=1] and RPSlots ]
+[DEBUG] [2023-08-28 @ 01:41:24] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=test room]) modified in client
+[INFO] [2023-08-28 @ 01:41:24] [Thread-0|jWrestlingScreen] Request to add player: marisag
+[DEBUG] [2023-08-28 @ 01:41:24] [Thread-0|jWrestlingScreen] Screen updated!
+[DEBUG] [2023-08-28 @ 01:41:24] [Thread-0|RoomCRUDClientExtension] Room event received: RPEvent Room_Event with Attributes of Class(Room_Event): [field=test room][description=This is a test room][action=1] and RPSlots 
+[DEBUG] [2023-08-28 @ 01:41:24] [Thread-0|jWrestlingScreen] Request to add room: test room
+[INFO] [2023-08-28 @ 01:41:24] [Thread-0|jWrestlingScreen] Request to add list to model: Lobby#Suspended Players Room: Were the bad guys end up...##test room
+[DEBUG] [2023-08-28 @ 01:41:24] [Thread-0|RoomCRUDClientExtension] Room event received: RPEvent Room_Event with Attributes of Class(Room_Event): [field=test room][description=This is a test room][action=1] and RPSlots 
+[DEBUG] [2023-08-28 @ 01:41:24] [Thread-0|jWrestlingScreen] Request to add room: test room
+[DEBUG] [2023-08-28 @ 01:41:24] [Thread-0|UserContext] Here are the processed events. A false means that probably RPEventListeners not registered.
+
+[DEBUG] [2023-08-28 @ 01:41:24] [Thread-0|UserContext] RPEvent Room_Event with Attributes of Class(Room_Event): [field=test room][description=This is a test room][action=1] and RPSlots  Processed? true
+[DEBUG] [2023-08-28 @ 01:41:24] [Thread-0|RPObjectChangeDispatcher] Object(RPObject.ID [id=2 zoneid=test room]) modified in client
+[INFO] [2023-08-28 @ 02:13:43] [main|jwrestling] Setting base at:/home/marisag/.jWrestling/
+[INFO] [2023-08-28 @ 02:13:43] [main|jwrestling] jWrestling 0.08
+[INFO] [2023-08-28 @ 02:13:43] [main|jwrestling] OS: Linux  6.2.0-26-generic amd64
+[INFO] [2023-08-28 @ 02:13:43] [main|jwrestling] Java-Runtime: OpenJDK Runtime Environment 17.0.8+7-Ubuntu-122.04 from /usr/lib/jvm/java-17-openjdk-amd64
+[INFO] [2023-08-28 @ 02:13:43] [main|jwrestling] Java-VM: Private Build OpenJDK 64-Bit Server VM 17.0.8+7-Ubuntu-122.04
+[INFO] [2023-08-28 @ 02:13:43] [Thread-0|SoundSystem] Sound driver: default [default](Direct Audio Device: default, default, default)
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|SoundSystem] SoundSystem: no master volume controls
+[INFO] [2023-08-28 @ 02:13:43] [Thread-0|SoundSystem] - sound definition: welcome = harp-1.wav,x
+[INFO] [2023-08-28 @ 02:13:43] [Thread-0|SoundSystem] - storing mem-library soundclip: welcome
+[INFO] [2023-08-28 @ 02:13:43] [Thread-0|SoundSystem] - sound definition: crowd_cheer = crowd-cheer.wav,x
+[INFO] [2023-08-28 @ 02:13:43] [Thread-0|SoundSystem] - storing mem-library soundclip: crowd_cheer
+[INFO] [2023-08-28 @ 02:13:43] [Thread-0|SoundSystem] jWrestling Soundsystem OK: 2 samples approved / 2 loaded / 2 library sounds
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Init UserContext.
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :): happy.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :-): happy.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :(: sad.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :-(: sad.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :o: surprise.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :-o: surprise.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :d: smile.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :-d: smile.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :p: tongue.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :-p: tongue.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :i: no-expression.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :-i: no-expression.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: ;): wink.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: ;-): wink.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: >@: mad.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: >-@: mad.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: 8): cool.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: 8-): cool.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :'(: tear.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :'-(: tear.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: (y): yes.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: (n): no.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: lol: LOL.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :$: shhhh.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: :-$: shhhh.gif
+[DEBUG] [2023-08-28 @ 02:13:43] [Thread-0|UserContext] Adding: brb: BRB.gif
+[DEBUG] [2023-08-28 @ 02:13:44] [Thread-0|UserContext] Adding event: text to the listener list
+[DEBUG] [2023-08-28 @ 02:13:44] [Thread-0|UserContext] Adding event: private_text to the listener list
+[INFO] [2023-09-04 @ 20:15:00] [main|jwrestling] Setting base at:/home/marisag/.jWrestling/
+[INFO] [2023-09-04 @ 20:15:00] [main|jwrestling] jWrestling 0.08
+[INFO] [2023-09-04 @ 20:15:00] [main|jwrestling] OS: Linux  6.2.0-31-generic amd64
+[INFO] [2023-09-04 @ 20:15:00] [main|jwrestling] Java-Runtime: OpenJDK Runtime Environment 17.0.8.1+1-Ubuntu-0ubuntu122.04 from /usr/lib/jvm/java-17-openjdk-amd64
+[INFO] [2023-09-04 @ 20:15:00] [main|jwrestling] Java-VM: Private Build OpenJDK 64-Bit Server VM 17.0.8.1+1-Ubuntu-0ubuntu122.04
+[INFO] [2023-09-04 @ 20:15:01] [Thread-0|SoundSystem] Sound driver: default [default](Direct Audio Device: default, default, default)
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|SoundSystem] SoundSystem: no master volume controls
+[INFO] [2023-09-04 @ 20:15:01] [Thread-0|SoundSystem] - sound definition: welcome = harp-1.wav,x
+[INFO] [2023-09-04 @ 20:15:01] [Thread-0|SoundSystem] - storing mem-library soundclip: welcome
+[INFO] [2023-09-04 @ 20:15:01] [Thread-0|SoundSystem] - sound definition: crowd_cheer = crowd-cheer.wav,x
+[INFO] [2023-09-04 @ 20:15:01] [Thread-0|SoundSystem] - storing mem-library soundclip: crowd_cheer
+[INFO] [2023-09-04 @ 20:15:01] [Thread-0|SoundSystem] jWrestling Soundsystem OK: 2 samples approved / 2 loaded / 2 library sounds
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Init UserContext.
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :): happy.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :-): happy.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :(: sad.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :-(: sad.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :o: surprise.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :-o: surprise.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :d: smile.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :-d: smile.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :p: tongue.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :-p: tongue.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :i: no-expression.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :-i: no-expression.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: ;): wink.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: ;-): wink.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: >@: mad.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: >-@: mad.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: 8): cool.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: 8-): cool.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :'(: tear.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :'-(: tear.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: (y): yes.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: (n): no.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: lol: LOL.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :$: shhhh.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: :-$: shhhh.gif
+[DEBUG] [2023-09-04 @ 20:15:01] [Thread-0|UserContext] Adding: brb: BRB.gif
+[DEBUG] [2023-09-04 @ 20:15:05] [Thread-0|UserContext] Adding event: text to the listener list
+[DEBUG] [2023-09-04 @ 20:15:05] [Thread-0|UserContext] Adding event: private_text to the listener list
+[INFO] [2023-09-04 @ 20:31:16] [main|jwrestling] Setting base at:/home/marisag/.jWrestling/
+[INFO] [2023-09-04 @ 20:31:16] [main|jwrestling] jWrestling 0.08
+[INFO] [2023-09-04 @ 20:31:16] [main|jwrestling] OS: Linux  6.2.0-31-generic amd64
+[INFO] [2023-09-04 @ 20:31:16] [main|jwrestling] Java-Runtime: OpenJDK Runtime Environment 17.0.8.1+1-Ubuntu-0ubuntu122.04 from /usr/lib/jvm/java-17-openjdk-amd64
+[INFO] [2023-09-04 @ 20:31:16] [main|jwrestling] Java-VM: Private Build OpenJDK 64-Bit Server VM 17.0.8.1+1-Ubuntu-0ubuntu122.04
+[INFO] [2023-09-04 @ 20:31:17] [Thread-0|SoundSystem] Sound driver: default [default](Direct Audio Device: default, default, default)
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|SoundSystem] SoundSystem: no master volume controls
+[INFO] [2023-09-04 @ 20:31:17] [Thread-0|SoundSystem] - sound definition: welcome = harp-1.wav,x
+[INFO] [2023-09-04 @ 20:31:17] [Thread-0|SoundSystem] - storing mem-library soundclip: welcome
+[INFO] [2023-09-04 @ 20:31:17] [Thread-0|SoundSystem] - sound definition: crowd_cheer = crowd-cheer.wav,x
+[INFO] [2023-09-04 @ 20:31:17] [Thread-0|SoundSystem] - storing mem-library soundclip: crowd_cheer
+[INFO] [2023-09-04 @ 20:31:17] [Thread-0|SoundSystem] jWrestling Soundsystem OK: 2 samples approved / 2 loaded / 2 library sounds
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Init UserContext.
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :): happy.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :-): happy.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :(: sad.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :-(: sad.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :o: surprise.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :-o: surprise.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :d: smile.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :-d: smile.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :p: tongue.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :-p: tongue.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :i: no-expression.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :-i: no-expression.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: ;): wink.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: ;-): wink.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: >@: mad.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: >-@: mad.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: 8): cool.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: 8-): cool.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :'(: tear.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :'-(: tear.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: (y): yes.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: (n): no.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: lol: LOL.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :$: shhhh.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: :-$: shhhh.gif
+[DEBUG] [2023-09-04 @ 20:31:17] [Thread-0|UserContext] Adding: brb: BRB.gif
+[DEBUG] [2023-09-04 @ 20:31:19] [Thread-0|UserContext] Adding event: text to the listener list
+[DEBUG] [2023-09-04 @ 20:31:19] [Thread-0|UserContext] Adding event: private_text to the listener list
+[DEBUG] [2023-09-04 @ 20:31:24] [AWT-EventQueue-0|ScrollerPanel] Created a new scrolling panel
+[DEBUG] [2023-09-04 @ 20:31:24] [AWT-EventQueue-0|CreditsDialog] about dialog initialized
+[DEBUG] [2023-09-04 @ 20:31:24] [AWT-EventQueue-0|CreditsDialog] about dialog event handling ready
+[DEBUG] [2023-09-04 @ 20:31:24] [AWT-EventQueue-0|ScrollerPanel] start scrolling
+[DEBUG] [2023-09-04 @ 20:31:27] [AWT-EventQueue-0|ScrollerPanel] stop scrolling
+[DEBUG] [2023-09-04 @ 20:31:27] [AWT-EventQueue-0|CreditsDialog] about dialog closed

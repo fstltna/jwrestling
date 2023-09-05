@@ -1,0 +1,3 @@
+#!/bin/bash
+java -jar jwrestling-client-0.08.jar
+exit 0

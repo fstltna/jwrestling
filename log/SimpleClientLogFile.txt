@@ -1,0 +1,8 @@
+[INFO] [2023-08-28 @ 01:39:39] [Thread-0|SimpleClientExtension] Loading ClientExtension: games.jwrestling.client.extension.BuddyClientExtension
+[INFO] [2023-08-28 @ 01:39:39] [Thread-0|ExtensionXMLLoader] Successfully loaded Buddy extension!
+[INFO] [2023-08-28 @ 01:39:39] [Thread-0|SimpleClientExtension] Loading ClientExtension: games.jwrestling.client.extension.RoomCRUDClientExtension
+[INFO] [2023-08-28 @ 01:39:39] [Thread-0|ExtensionXMLLoader] Successfully loaded RoomCRUD extension!
+[INFO] [2023-08-28 @ 01:39:39] [Thread-0|SimpleClientExtension] Loading ClientExtension: games.jwrestling.client.extension.ChallengeClientExtension
+[INFO] [2023-08-28 @ 01:39:39] [Thread-0|ExtensionXMLLoader] Successfully loaded Challenge extension!
+[INFO] [2023-08-28 @ 01:39:39] [Thread-0|SimpleClientExtension] Loading ClientExtension: games.jwrestling.client.extension.MatchClientExtension
+[INFO] [2023-08-28 @ 01:39:39] [Thread-0|ExtensionXMLLoader] Successfully loaded Match extension!
